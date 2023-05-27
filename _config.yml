@@ -87,7 +87,7 @@ author:
   employer         : "Leibniz Institute for Astrophysics <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Potsdam (AIP)"
   pubmed           : 
   googlescholar    : 
-  email            : "bratcliffe@aip.de"
+  email            : # "bratcliffe@aip.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
