@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bridget Ratcliffe, PhD"
   avatar           : "profile.png"
-  bio              : "Posdoc"
+  bio              : "Postdoc"
   location         : "Potsdam, Germany"
-  employer         : "Leibniz Institute for Astrophysics \n Potsdam (AIP)"
+  employer         : "Leibniz Institute for Astrophysics <br/> Potsdam (AIP)"
   pubmed           : 
   googlescholar    : 
   email            : "bratcliffe@aip.de"
