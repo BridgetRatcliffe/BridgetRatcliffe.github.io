@@ -86,7 +86,7 @@ author:
   location         : "Potsdam, Germany"
   employer         : "Leibniz Institute for Astrophysics <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Potsdam (AIP)"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=7PnnbB8AAAAJ"
   email            : # "bratcliffe@aip.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  nasa             : "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22ratcliffe%2C%20bridget%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
 
 
 # Reading Files
