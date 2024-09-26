@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Bridget! I am a postdoctoral researcher at the Leibniz-Institut f&uumlt;r Astrophysik Potsdam (AIP). My website is currently under construction!
+Hi, I'm Bridget! I am a postdoctoral researcher at the Leibniz-Institut für Astrophysik Potsdam (AIP). My website is currently under construction!
