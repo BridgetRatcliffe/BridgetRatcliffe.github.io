@@ -1,5 +1,14 @@
+/* Add padding around the entire publications page */
 .page-id-publications {
-    padding: 2rem 4rem;
-    max-width: 900px;
-    margin: 0 auto;
+    padding: 2rem 4rem; /* Adjust the padding as needed */
+    font-size: 1.1rem; /* Optional: Adjust text size for readability */
+    line-height: 1.6; /* Improves line spacing */
+}
+
+/* Keep images uniform in size */
+.page-id-publications img {
+    max-width: 80%; /* Ensures all images fit within 80% of container */
+    height: auto; /* Maintains aspect ratio */
+    display: block;
+    margin: 1.5rem auto; /* Centers images and adds space */
 }
