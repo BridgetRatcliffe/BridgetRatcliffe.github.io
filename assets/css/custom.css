@@ -17,7 +17,7 @@
 } 
 */
 .page-id-publications img {
-    width: 100px; /* Ensures all images fit within 80% of container */
+    max-width: 80%; /* Ensures all images fit within 80% of container */
     height: auto; /* Maintains aspect ratio */
     object-fit: cover;
     display: block;
