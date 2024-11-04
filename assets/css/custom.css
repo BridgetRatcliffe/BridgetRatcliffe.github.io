@@ -4,7 +4,8 @@
     padding: 2rem 2rem; /* Adjust the padding as needed */
     font-size: 1.1rem; /* Optional: Adjust text size for readability */
     line-height: 1.6; /* Improves line spacing */
-    max-width: 70vw; 
+    max-width: 70vw;
+    width: 60vw; 
     margin: 1.5rem 3rem; 
 }
 
