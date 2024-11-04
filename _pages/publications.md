@@ -6,7 +6,7 @@ classes: page-id-publications
 
 ---
 
-# Publications
+# Selected First-Author Publications
 
 ## [Evolution of the radial ISM metallicity gradient in the Milky Way disk since redshift ≈3](https://ui.adsabs.harvard.edu/abs/2024arXiv241017326R/abstract)
 
@@ -62,7 +62,7 @@ To understand the formation and evolution of the Milky Way disk, we must connect
 
 ## [Tracing the Assembly of the Milky Way's Disk through Abundance Clustering](https://ui.adsabs.harvard.edu/abs/2020ApJ...900..165R/abstract)
 
-![Figure 7](images/paper/PCAContributions3.png)
+![Figure 7](/images/paper/PCAContributions3.png)
 
 **Abstract:**  
 A major goal in the field of galaxy formation is to understand the formation of the Milky Way's disk. The first step toward doing this is to empirically describe its present state. We use the new high-dimensional data set of 19 abundances from 27,135 red clump Apache Point Observatory Galactic Evolution Experiment stars to examine the distribution of clusters defined using abundances. We explore different dimension reduction techniques and implement a nonparametric agglomerate hierarchical clustering method. We see that groups defined using abundances are spatially separated, as a function of age. Furthermore, the abundance groups represent different distributions in the [Fe/H]–age plane. Ordering our clusters by age reveals patterns suggestive of the sequence of chemical enrichment in the disk over time. Our results indicate that a promising avenue to trace the details of the disk's assembly is via a full interpretation of the empirical connections we report.
