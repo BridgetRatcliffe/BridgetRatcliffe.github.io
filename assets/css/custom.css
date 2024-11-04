@@ -14,8 +14,8 @@
 } 
 */
 .page-id-publications img {
-    width: 500 px; /* Ensures all images fit within 80% of container */
-    height: 300px; /* Maintains aspect ratio */
+    width: 500px; /* Ensures all images fit within 80% of container */
+    height: auto; /* Maintains aspect ratio */
     object-fit: cover;
     display: block;
     margin: 1.5rem auto; /* Centers images and adds space */
