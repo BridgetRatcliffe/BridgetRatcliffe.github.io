@@ -1,11 +1,11 @@
 /* Add padding around the entire publications page */
 .page-id-publications {
     box-sizing: border-box;
-    padding: 8rem 10rem; /* Adjust the padding as needed */
+    /* padding: 8rem 10rem; /* Adjust the padding as needed */
     font-size: 1.1rem; /* Optional: Adjust text size for readability */
     line-height: 1.6; /* Improves line spacing */
     max-width: 800px;
-    margin: auto 1.5rem;
+    margin: 1.5rem 3rem;
 }
 
 /* Keep images uniform in size */
