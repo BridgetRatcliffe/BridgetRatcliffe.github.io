@@ -5,7 +5,7 @@
     font-size: 1.1rem; /* Optional: Adjust text size for readability */
     line-height: 1.6; /* Improves line spacing */
     max-width: 800px;
-    margin: 0 auto;
+    margin: 1.5rem auto;
 }
 
 /* Keep images uniform in size */
@@ -17,7 +17,7 @@
 } 
 */
 .page-id-publications img {
-    width: 500px; /* Ensures all images fit within 80% of container */
+    width: 100px; /* Ensures all images fit within 80% of container */
     height: auto; /* Maintains aspect ratio */
     object-fit: cover;
     display: block;
