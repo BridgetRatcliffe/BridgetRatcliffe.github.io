@@ -13,3 +13,10 @@ publications-page .page-content {
     display: block;
     margin: 0 auto 20px; /* Center images and add bottom spacing */
 }
+
+.publications-page .content-wrapper {
+    padding: 0 40px;
+    max-width: 800px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
