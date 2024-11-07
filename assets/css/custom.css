@@ -23,7 +23,7 @@ publications-page .page-content {
 
 /* Style for smaller images */
 .publications-page .small-image {
-    max-width: 150px; /* Adjust to your preferred size */
+    max-width: 100px; /* Adjust to your preferred size */
     width: 100%;
     height: auto; /* Maintain aspect ratio */
     display: block;
