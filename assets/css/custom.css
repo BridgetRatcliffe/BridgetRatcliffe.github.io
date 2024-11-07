@@ -1,5 +1,5 @@
 /* Apply styles only to the publications page */
-publications-page .page-content {
+.publications-page .page-content {
     padding: 0 40px; /* Add more padding to the left and right */
     max-width: 800px; /* Adjust max width to add whitespace */
     margin: 0 auto; /* Center content within the page */
