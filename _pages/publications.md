@@ -40,7 +40,7 @@ The relative enrichment of s-process to $\alpha$-elements ($\lbrack s/\alpha\rbr
 ## [Unveiling the time evolution of chemical abundances across the Milky Way disc with APOGEE](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.2208R/abstract)
 
 <div class="image-center">
-<img src="/images/paper/mgfe_feh_rb_age.png" style="max-width: 450px;">
+<img src="/images/paper/mgfe_feh_rb_age.png" style="max-width: 600px;">
 </div>
 
 
@@ -52,7 +52,7 @@ Chemical abundances are an essential tool in untangling the Milky Way's enrichme
 ## [The Chemical Enrichment of the Milky Way Disk Evaluated Using Conditional Abundances](https://ui.adsabs.harvard.edu/abs/2023ApJ...943...92R/abstract)
 
 <div class="image-center">
-<img src="/images/paper/biasIntr_solar_outer.png" style="max-width: 450px;">
+<img src="/images/paper/biasIntr_solar_outer.png" style="max-width: 600px;">
 </div>
 
 
