@@ -22,11 +22,15 @@
 }
 
 .publications-page .image-center {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
 }
 
 .publications-page .image-center img {
-    display: inline-block
+    max-width: 150px;
+    height: auto;
 }
 
 /* Style for smaller images */
