@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected First-Author Publications"
 permalink: /publications/
 author_profile: true
 classes: publications-page
 ---
 
-# Selected First-Author Publications
-
 ## [Evolution of the radial ISM metallicity gradient in the Milky Way disk since redshift ≈3](https://ui.adsabs.harvard.edu/abs/2024arXiv241017326R/abstract)
 
-![Figure 1](/images/paper/gradMW.png)
+![Figure 1](/images/paper/gradMW.png){: .small-image }
 
 **Abstract:**  
 Recent works identified a way to recover the time evolution of a galaxy's disk metallicity gradient from the shape of its age–metallicity relation. However, the success of the method is dependent on how the width of the star-forming region evolves over time, which in turn is dependent on a galaxy's present-day bar strength. In this paper, we account for the time variation in the width of the star-forming region when deriving the interstellar medium (ISM) metallicity gradient evolution over time ($\nabla\lbrack Fe/H \rbrack(\tau)$), which provides more realistic birth radii estimates of Milky Way (MW) disk stars. Using MW/Andromeda analogues from the TNG50 simulation, we quantified the disk growth of newly born stars as a function of present-day bar strength to provide a correction that improves recovery of $ \nabla \lbrack Fe/H\rbrack (\tau) $. In TNG50, we find that our correction reduces the median absolute error in recovering $\nabla \lbrack Fe/H\rbrack (\tau)$ by over 30%. To confirm its universality, we test our correction on two galaxies from NIHAO-UHD and find the median absolute error is over 3 times smaller even in the presence of observational uncertainties for the barred, MW-like galaxy. Applying our correction to APOGEE DR17 red giant MW disk stars suggests the effects of merger events on $\nabla \lbrack Fe/H\rbrack (\tau)$ are less significant than originally found, and the corresponding estimated birth radii expose epochs when different migration mechanisms dominated. Our correction to account for the growth of the star-forming region in the disk allows for better recovery of the evolution of the MW disk's ISM metallicity gradient and, thus, more meaningful stellar birth radii estimates. With our results, we are able to suggest the evolution of not only the ISM gradient, but also the total stellar disk radial metallicity gradient, providing key constraints to select MW analogues across redshift.
@@ -28,7 +26,7 @@ Recent works use a linear birth metallicity gradient to estimate the evolution o
 
 ## [Chemical clocks and their time zones: understanding the [s/Mg]—age relation with birth radii](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.3464R/abstract)
 
-![Figure 3](/images/paper/nissen.png)
+![Figure 3](/images/paper/nissen.png){: .small-image }
 
 **Abstract:**  
 The relative enrichment of s-process to $\alpha$-elements ($\lbrack s/\alpha\rbrack$) has been linked with age, providing a potentially useful avenue in exploring the Milky Way's chemical evolution. However, the age–$\lbrack s/\alpha\rbrack$  relationship is non-universal, with dependencies on metallicity and current location in the Galaxy. In this work, we examine these chemical clock tracers across birth radii ($\rm R_\text{birth}$), recovering the inherent trends between the variables. We derive $\rm R_\text{birth}$ and explore the $\lbrack s/\alpha\rbrack$–age–$\rm R_\text{birth}$ relationship for 36,652 APOGEE DR17 red giant and 24,467 GALAH DR3 main sequence turnoff and subgiant branch disk stars using $\lbrack Ce/Mg\rbrack$, $\lbrack Ba/Mg\rbrack$, and $\lbrack Y/Mg\rbrack$. We discover that the age–$\lbrack s/Mg\rbrack$ relation is strongly dependent on birth location in the Milky Way, with stars born in the inner disk having the weakest correlation. This is congruent with the Galaxy's initially weak, negative $\lbrack s/Mg\rbrack$ radial gradient, which becomes positive and steep with time. We show that the non-universal relations of chemical clocks is caused by their fundamental trends with $\rm R_\text{birth}$ over time, and suggest that the tight age–$\lbrack s/Mg\rbrack$ relation obtained with solar-like stars is due to similar $\rm R_\text{birth}$ for a given age. Our results are put into context with a Galactic chemical evolution model, where we demonstrate the need for data-driven nucleosynthetic yields.
@@ -37,7 +35,7 @@ The relative enrichment of s-process to $\alpha$-elements ($\lbrack s/\alpha\rbr
 
 ## [Unveiling the time evolution of chemical abundances across the Milky Way disc with APOGEE](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.2208R/abstract)
 
-![Figure 4](/images/paper/mgfe_feh_rb_age.png)
+![Figure 4](/images/paper/mgfe_feh_rb_age.png){: .small-image }
 
 **Abstract:**  
 Chemical abundances are an essential tool in untangling the Milky Way's enrichment history. However, the evolution of the interstellar medium abundance gradient with cosmic time is lost as a result of radial mixing processes. For the first time, we quantify the evolution of many observational abundances across the Galactic disk as a function of lookback time and birth radius, $\rm R_\text{birth}$. Using an empirical approach, we derive $\rm R_\text{birth}$ estimates for 145,447 APOGEE DR17 red giant disk stars, based solely on their ages and $\lbrack Fe/H\rbrack $. We explore the detailed evolution of 6 abundances (Mg, Ca (\alpha), Mn (iron-peak), Al, C (light), Ce (s-process)) across the Milky Way disk using 87,426 APOGEE DR17 red giant stars. We discover that the interstellar medium had three fluctuations in the metallicity gradient ∼ 9, ∼ 6, and ∼ 4 Gyr ago. The first coincides with the end of high-\alpha sequence formation around the time of the Gaia-Sausage-Enceladus disruption, while the others are likely related to passages of the Sagittarius dwarf galaxy. A clear distinction is found between present-day observed radial gradients with age and the evolution with lookback time for both $\lbrack X/Fe\rbrack$  and $ \lbrack X/H\rbrack$, resulting from the significant flattening and inversion in old populations due to radial migration. We find the $\lbrack Fe/H\rbrack $–$\lbrack \alpha/Fe\rbrack $ bimodality is also seen as a separation in the $\rm R_\text{birth}–\lbrack x/Fe\rbrack$  plane for the light and $\alpha$-elements. Our results recover the chemical enrichment of the Galactic disk over the past 12 Gyr, providing tight constraints on Galactic disk chemical evolution models.
@@ -46,7 +44,7 @@ Chemical abundances are an essential tool in untangling the Milky Way's enrichme
 
 ## [The Chemical Enrichment of the Milky Way Disk Evaluated Using Conditional Abundances](https://ui.adsabs.harvard.edu/abs/2023ApJ...943...92R/abstract)
 
-![Figure 5](/images/paper/biasIntr_solar_outer.png)
+![Figure 5](/images/paper/biasIntr_solar_outer.png){: .small-image }
 
 **Abstract:**  
 Chemical abundances of Milky Way disk stars are empirical tracers of its enrichment history. However, they capture joint-information that is valuable to disentangle. In this work, we quantify how individual abundances evolve across present-day Galactic radius, at fixed supernovae contribution ([Fe/H], [Mg/Fe]). We use 18,135 APOGEE DR17 red clump stars and 7,943 GALAH DR3 main sequence stars to compare the abundance distributions conditioned on ([Fe/H], [Mg/Fe]) across $3-13$ kpc and $6.5-9.5$ kpc, respectively. We examine 15 elements: C, N, Al, K (light), O, Si, S, Ca,  ($\alpha$), Mn, Ni, Cr, Cu, (iron-peak) Ce, Ba (s-process) and Eu (r-process). We find that the conditional neutron capture and light elements most significantly trace variations in the disk's enrichment history, with absolute conditional radial gradients $\leq 0.03$ dex/kpc. The other elements studied have absolute conditional gradients $\lesssim 0.01$ dex/kpc. We uncover structured conditional abundance variations with [Fe/H] for the low-$\alpha$, but not the high-$\alpha$ sequence. The average scatter between the mean conditional abundances at different radii is $\sigma_\text{intrinsic}$ $\approx$ 0.02 dex (Ce, Eu, Ba $\sigma_\text{intrinsic}$ $>$ 0.05 dex). These results serve as a measure of the magnitude via which different elements trace Galactic radial enrichment history once fiducial supernovae correlations are accounted for. Furthermore, we uncover subtle systematic variations in moments of the conditional abundance distributions and bi-modal differences in [Al/Fe]. These suggest a non-uniform enrichment of each chemical cell, and will presumably constrain chemical evolution models of the Galaxy. 

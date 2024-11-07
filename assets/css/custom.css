@@ -20,3 +20,12 @@ publications-page .page-content {
     margin: 0 auto;
     box-sizing: border-box;
 }
+
+/* Style for smaller images */
+.publications-page .small-image {
+    max-width: 150px; /* Adjust to your preferred size */
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto; /* Center if needed */
+}
