@@ -39,7 +39,6 @@ The relative enrichment of s-process to $\alpha$-elements ($\lbrack s/\alpha\rbr
 
 ## [Unveiling the time evolution of chemical abundances across the Milky Way disc with APOGEE](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.2208R/abstract)
 
-![Figure 4](/images/paper/mgfe_feh_rb_age.png){: .small-image }
 <div class="image-center">
 <img src="/images/paper/mgfe_feh_rb_age.png" style="max-width: 450px;">
 </div>
