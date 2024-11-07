@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected first-author publications"
+title: "Selected First-Author Publications"
 permalink: /publications/
 author_profile: true
 classes: publications-page
@@ -9,7 +9,7 @@ classes: publications-page
 ## [Evolution of the radial ISM metallicity gradient in the Milky Way disk since redshift ≈3](https://ui.adsabs.harvard.edu/abs/2024arXiv241017326R/abstract)
 
 <div class="image-center">
-<img src="/images/paper/gradMW.png" style="max-width: 150px;">
+<img src="/images/paper/gradMW.png" style="max-width: 450px;">
 </div>
 
 **Abstract:**  
