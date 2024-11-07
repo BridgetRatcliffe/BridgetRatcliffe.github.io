@@ -23,9 +23,9 @@
 
 /* Style for smaller images */
 .publications-page .page-content img.small-image {
-    max-width: 100px !important; /* Adjust to your preferred size */
-    width: 100%;
-    height: auto; /* Maintain aspect ratio */
+    max-width: 150px !important; /* Adjust to your preferred size */
+    width: 100% !important;
+    height: auto !important; /* Maintain aspect ratio */
     display: block;
     margin: 0 auto; /* Center if needed */
 }

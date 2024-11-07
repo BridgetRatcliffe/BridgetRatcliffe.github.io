@@ -8,7 +8,6 @@ classes: publications-page
 
 ## [Evolution of the radial ISM metallicity gradient in the Milky Way disk since redshift ≈3](https://ui.adsabs.harvard.edu/abs/2024arXiv241017326R/abstract)
 
-![Figure 1](/images/paper/gradMW.png){: .small-image } 
 <img src="/images/paper/gradMW.png" class="small-image" style="max-width: 150px;">
 
 **Abstract:**  
