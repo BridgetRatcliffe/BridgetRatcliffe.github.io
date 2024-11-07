@@ -1,32 +1,15 @@
-body {
-    margin-left: 5vw;
-    margin-right: 5vw;
+/* Apply styles only to the publications page */
+.publications-page .page-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 800px; /* Set a max width for readability */
+    margin: 0 auto; /* Center content */
 }
 
-/* Add padding around the entire publications page */
-.page-id-publications {
-    /*box-sizing: border-box;*/
-    padding: 2rem 2rem; /* Adjust the padding as needed */
-    font-size: 1.1rem; /* Optional: Adjust text size for readability */
-    line-height: 1.6; /* Improves line spacing */
-    max-width: 70vw;
-    width: 60vw; 
-    margin: 1.5rem 3rem; 
-}
-
-/* Keep images uniform in size */
-/* .page-id-publications img {
-    max-width: 80%; 
-    height: auto;
+/* Make all PNG images on publications page have the same width */
+.publications-page .page-content img {
+    width: 100%; /* Make images responsive */
+    max-width: 200px; /* Set a fixed width, adjust as needed */
     display: block;
-    margin: 1.5rem auto; 
-} 
-*/
-.page-id-publications img {
-    max-width: 100%; /* Ensures all images fit within 80% of container */
-    width: 50vw;
-    height: auto; /* Maintains aspect ratio */
-    object-fit: cover;
-    display: block;
-    margin: 1.5rem auto; /* Centers images and adds space */
+    margin: 0 auto 20px; /* Center images and add bottom spacing */
 }

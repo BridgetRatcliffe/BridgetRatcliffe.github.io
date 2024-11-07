@@ -2,7 +2,7 @@
 layout: page
 title: "Publications"
 permalink: /publications/
-classes: page-id-publications
+classes: publications-page
 
 ---
 
