@@ -22,8 +22,8 @@
 }
 
 /* Style for smaller images */
-.publications-page .small-image {
-    max-width: 100px; /* Adjust to your preferred size */
+.publications-page .page-content img.small-image {
+    max-width: 100px !important; /* Adjust to your preferred size */
     width: 100%;
     height: auto; /* Maintain aspect ratio */
     display: block;
