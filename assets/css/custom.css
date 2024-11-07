@@ -1,9 +1,9 @@
 /* Apply styles only to the publications page */
-.publications-page .page-content {
-    padding-left: 20px;
-    padding-right: 20px;
-    max-width: 800px; /* Set a max width for readability */
-    margin: 0 auto; /* Center content */
+publications-page .page-content {
+    padding: 0 40px; /* Add more padding to the left and right */
+    max-width: 800px; /* Adjust max width to add whitespace */
+    margin: 0 auto; /* Center content within the page */
+    box-sizing: border-box; /* Make sure padding doesn’t affect max-width */
 }
 
 /* Make all PNG images on publications page have the same width */
