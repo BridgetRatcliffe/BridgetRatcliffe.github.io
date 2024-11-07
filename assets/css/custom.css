@@ -21,11 +21,19 @@
     box-sizing: border-box;
 }
 
-/* Style for smaller images */
-.publications-page .page-content img.small-image {
-    max-width: 150px !important; /* Adjust to your preferred size */
-    width: 100% !important;
-    height: auto !important; /* Maintain aspect ratio */
-    display: block;
-    margin: 0 auto; /* Center if needed */
+.publications-page .image-center {
+    text-align: center;
 }
+
+.publications-page .image-center img {
+    display: inline-block
+}
+
+/* Style for smaller images */
+/* .publications-page .page-content img.small-image {
+    max-width: 150px !important;
+    width: 100% !important;
+    height: auto !important; 
+    display: block;
+    margin: 0 auto; 
+} */
