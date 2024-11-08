@@ -19,11 +19,11 @@ Recent works identified a way to recover the time evolution of a galaxy's disk m
 
 ## [Empirical derivation of the metallicity evolution with time and radius using TNG50 Milky Way and Andromeda analogues](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.352R/abstract)
 
-<!-- ![Figure 2](/images/paper/dR_time.png) -->
+![Figure 2](/images/paper/dR_time.png)
 
-<div class="image-center">
-<img src="/images/paper/dR_time.png" style="max-width: 500px; float: left"/>
-</div>
+<!-- <div class="image-center"> -->
+<!-- <img src="/images/paper/dR_time.png" style="max-width: 500px; float: left"/> -->
+<!-- </div> -->
 
 <!-- **Abstract:**   -->
 Recent works use a linear birth metallicity gradient to estimate the evolution of the $\lbrack Fe/H\rbrack $ profile in the Galactic disk over time, and infer stellar birth radii ($\rm R_\text{birth}$) from $\lbrack Fe/H\rbrack $ and age measurements. These estimates rely on the evolution of $\lbrack Fe/H\rbrack$  at the Galactic center ($\lbrack Fe/H\rbrack (0, \tau)$) and the birth metallicity gradient ($\nabla\lbrack Fe/H\rbrack (\tau)$) over time — quantities that are unknown and inferred under key assumptions. In this work, we use the sample of Milky Way and Andromeda analogues from the TNG50 simulation to investigate the ability to recover $\lbrack Fe/H\rbrack (R, \tau)$ in a variety of galaxies. Using stellar disk particles, we tested the assumptions required in estimating $ \rm R_\text{birth}$, $\lbrack Fe/H\rbrack (0, \tau)$, and $\nabla\lbrack Fe/H\rbrack (\tau)$ using recently proposed methods to understand when they are valid. We show that $\nabla\lbrack Fe/H\rbrack (\tau)$ can be recovered in most galaxies to within 26% from the range in $\lbrack Fe/H\rbrack$  across age, with better accuracy for more massive and stronger barred galaxies. We also find that the true central metallicity is unrepresentative of the genuine disk $\lbrack Fe/H\rbrack $ profile; thus we propose to use a projected central metallicity instead. About half of the galaxies in our sample do not have a continuously enriching projected central metallicity, with a dilution in $\lbrack Fe/H\rbrack $ correlating with mergers. Most importantly, galaxy-specific $\lbrack Fe/H\rbrack (R, \tau)$ can be constrained and confirmed by requiring the $\rm R_\text{birth}$ distributions of mono-age, solar neighborhood populations to follow inside-out formation. We conclude that examining trends with $\rm R_\text{birth}$ is valid for the Milky Way disk and similarly structured galaxies, where we expect $\rm R_\text{birth}$ can be recovered to within 20% assuming today's measurement uncertainties in TNG50.
@@ -68,10 +68,10 @@ Chemical abundances of Milky Way disk stars are empirical tracers of its enrichm
 
 ## [Tracing Birth Properties of Stars with Abundance Clustering](https://ui.adsabs.harvard.edu/abs/2022ApJ...924...60R/abstract)
 
-<!-- ![Figure 6](/images/paper/buck_contour3panel_v2.png) -->
-<div class="image-center">
-<img src="/images/paper/buck_contour3panel_v2.png" style="max-width: 500px; float: left"/>
-</div>
+![Figure 6](/images/paper/buck_contour3panel_v2.png)
+<!-- <div class="image-center"> -->
+<!-- <img src="/images/paper/buck_contour3panel_v2.png" style="max-width: 500px; float: left"/> -->
+<!-- </div> -->
 
 <!-- **Abstract:**   -->
 To understand the formation and evolution of the Milky Way disk, we must connect its current properties to its past. We explore hydrodynamical cosmological simulations to investigate how the chemical abundances of stars might be linked to their origins. Using hierarchical clustering of abundance measurements in two Milky Way-like simulations with distributed and steady star formation histories, we find that groups of chemically similar stars comprise different groups in birth place ($\rm R_\text{birth}$) and time (age). Simulating observational abundance errors (0.05 dex), we find that to trace distinct groups of ($\rm R_\text{birth}$, age) requires a large vector of abundances. Using 15-element abundances (Fe, O, Mg, S, Si, C, P, Mn, Ne, Al, N, V, Ba, Cr, Co), up to $\approx 10$ groups can be defined with ≈25% overlap in ($\rm R_\text{birth}$, age). We build a simple model to show that in the context of these simulations, it is possible to infer a star’s age and $\rm R_\text{birth}$ from abundances with precisions of $ \pm 0.06 $ Gyr and $\pm 1.17$ kpc respectively. We find that abundance clustering is ineffective for a third simulation, where low-$\alpha$ stars form distributed in the disc and early high-$\alpha$ stars form more rapidly in clumps that sink towards the galactic center as their constituent stars evolve to enrich the interstellar medium. However, this formation path leads to large age-dispersions across the $\lbrack \alpha/Fe\rbrack –\lbrack Fe/H\rbrack$  plane, which is inconsistent with the Milky Way's observed properties. We conclude that abundance clustering is a promising approach toward charting the history of our Galaxy.
