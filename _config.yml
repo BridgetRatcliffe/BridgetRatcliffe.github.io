@@ -148,10 +148,13 @@ exclude:
   - tmp
   - vendor
   - _pages/cv.md
-  - _pages/talks.md
+  - _pages/talks.html
   - _pages/teaching.html
   - _pages/portfolio.html
   - _pages/talkmap.html
+  - _pages/year-archive.html
+  - _posts
+  - _pages/tag-archive.html
 
 
 keep_files:
