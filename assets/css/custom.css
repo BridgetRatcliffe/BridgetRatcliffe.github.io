@@ -1,4 +1,8 @@
 /* Apply styles only to the publications page */
+.publications-page {
+    font-size: 0.8rem;
+    line-height: 1.5;
+}
 .publications-page .page-content {
     padding: 0 40px; /* Add more padding to the left and right */
     max-width: 800px; /* Adjust max width to add whitespace */
