@@ -147,11 +147,12 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - cv.md
-  - talks.md
-  - teaching.html
-  - portfolio.html
-  
+  - _pages/cv.md
+  - _pages/talks.md
+  - _pages/teaching.html
+  - _pages/portfolio.html
+  - _pages/talkmap.html
+
 
 keep_files:
   - .git
