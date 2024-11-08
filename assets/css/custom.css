@@ -36,21 +36,23 @@
 }
 
 
-/* Style for the side-by-side layout */
+/* Ensure image and text are side by side */
 .side-by-side {
     display: flex;
-    align-items: flex-start; /* Aligns items at the top */
+    align-items: flex-start; /* Aligns top of image and text */
     gap: 1rem; /* Space between image and text */
 }
 
+/* Style the image to control its size */
 .side-by-side img {
-    max-width: 150px; /* Adjust image size as needed */
-    height: auto; /* Maintains aspect ratio */
+    max-width: 150px; /* Adjust to set image size */
+    height: auto; /* Maintain aspect ratio */
+    flex-shrink: 0; /* Prevents image from resizing smaller */
 }
 
-.side-by-side div {
-    flex: 1; /* Allows text to take remaining space */
-    font-size: 0.9rem; /* Optional: Make text smaller */
+/* Ensure text area can expand */
+.side-by-side p {
+    flex: 1; /* Allows text to fill remaining space */
 }
 
 /* Style for smaller images */
