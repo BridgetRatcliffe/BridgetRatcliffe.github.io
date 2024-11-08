@@ -147,6 +147,12 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - cv.md
+  - talks.md
+  - teaching.html
+  - portfolio.html
+  
+
 keep_files:
   - .git
   - .svn
