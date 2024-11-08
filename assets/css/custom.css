@@ -4,6 +4,8 @@
     max-width: 800px; /* Adjust max width to add whitespace */
     margin: 0 auto; /* Center content within the page */
     box-sizing: border-box; /* Make sure padding doesn’t affect max-width */
+    font-size: 0.9rem;
+    line-height: 1.5;
 }
 
 /* Make all PNG images on publications page have the same width */
