@@ -35,6 +35,24 @@
     height: auto;
 }
 
+
+/* Style for the side-by-side layout */
+.side-by-side {
+    display: flex;
+    align-items: flex-start; /* Aligns items at the top */
+    gap: 1rem; /* Space between image and text */
+}
+
+.side-by-side img {
+    max-width: 150px; /* Adjust image size as needed */
+    height: auto; /* Maintains aspect ratio */
+}
+
+.side-by-side div {
+    flex: 1; /* Allows text to take remaining space */
+    font-size: 0.9rem; /* Optional: Make text smaller */
+}
+
 /* Style for smaller images */
 /* .publications-page .page-content img.small-image {
     max-width: 150px !important;
