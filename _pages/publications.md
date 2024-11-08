@@ -12,8 +12,9 @@ classes: publications-page
 <!-- <div class="side-by-side"> -->
 <!-- <img src="/images/paper/gradMW.png" style="max-width: 400px;"> -->
 <img src="/images/paper/gradMW.png" style="max-width: 400px; float: left"/>
-#### Recent works identified a way to recover the time evolution of a galaxy's disk metallicity gradient from the shape of its age–metallicity relation. However, the success of the method is dependent on how the width of the star-forming region evolves over time, which in turn is dependent on a galaxy's present-day bar strength. In this paper, we account for the time variation in the width of the star-forming region when deriving the interstellar medium (ISM) metallicity gradient evolution over time ($\nabla\lbrack Fe/H \rbrack(\tau)$), which provides more realistic birth radii estimates of Milky Way (MW) disk stars. Using MW/Andromeda analogues from the TNG50 simulation, we quantified the disk growth of newly born stars as a function of present-day bar strength to provide a correction that improves recovery of $ \nabla \lbrack Fe/H\rbrack (\tau) $. In TNG50, we find that our correction reduces the median absolute error in recovering $\nabla \lbrack Fe/H\rbrack (\tau)$ by over 30%. To confirm its universality, we test our correction on two galaxies from NIHAO-UHD and find the median absolute error is over 3 times smaller even in the presence of observational uncertainties for the barred, MW-like galaxy. Applying our correction to APOGEE DR17 red giant MW disk stars suggests the effects of merger events on $\nabla \lbrack Fe/H\rbrack (\tau)$ are less significant than originally found, and the corresponding estimated birth radii expose epochs when different migration mechanisms dominated. Our correction to account for the growth of the star-forming region in the disk allows for better recovery of the evolution of the MW disk's ISM metallicity gradient and, thus, more meaningful stellar birth radii estimates. With our results, we are able to suggest the evolution of not only the ISM gradient, but also the total stellar disk radial metallicity gradient, providing key constraints to select MW analogues across redshift.
+Recent works identified a way to recover the time evolution of a galaxy's disk metallicity gradient from the shape of its age–metallicity relation. However, the success of the method is dependent on how the width of the star-forming region evolves over time, which in turn is dependent on a galaxy's present-day bar strength. In this paper, we account for the time variation in the width of the star-forming region when deriving the interstellar medium (ISM) metallicity gradient evolution over time ($\nabla\lbrack Fe/H \rbrack(\tau)$), which provides more realistic birth radii estimates of Milky Way (MW) disk stars. Using MW/Andromeda analogues from the TNG50 simulation, we quantified the disk growth of newly born stars as a function of present-day bar strength to provide a correction that improves recovery of $ \nabla \lbrack Fe/H\rbrack (\tau) $. In TNG50, we find that our correction reduces the median absolute error in recovering $\nabla \lbrack Fe/H\rbrack (\tau)$ by over 30%. To confirm its universality, we test our correction on two galaxies from NIHAO-UHD and find the median absolute error is over 3 times smaller even in the presence of observational uncertainties for the barred, MW-like galaxy. Applying our correction to APOGEE DR17 red giant MW disk stars suggests the effects of merger events on $\nabla \lbrack Fe/H\rbrack (\tau)$ are less significant than originally found, and the corresponding estimated birth radii expose epochs when different migration mechanisms dominated. Our correction to account for the growth of the star-forming region in the disk allows for better recovery of the evolution of the MW disk's ISM metallicity gradient and, thus, more meaningful stellar birth radii estimates. With our results, we are able to suggest the evolution of not only the ISM gradient, but also the total stellar disk radial metallicity gradient, providing key constraints to select MW analogues across redshift.
 <!-- </div> -->
+
 ---
 
 ## [Empirical derivation of the metallicity evolution with time and radius using TNG50 Milky Way and Andromeda analogues](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.352R/abstract)
@@ -21,7 +22,7 @@ classes: publications-page
 <!-- ![Figure 2](/images/paper/dR_time.png) -->
 
 <div class="image-center">
-<img src="/images/paper/dR_time.png" style="max-width: 500px;">
+<img src="/images/paper/dR_time.png" style="max-width: 500px; float: left"/>
 </div>
 
 <!-- **Abstract:**   -->
@@ -32,7 +33,7 @@ Recent works use a linear birth metallicity gradient to estimate the evolution o
 ## [Chemical clocks and their time zones: understanding the [s/Mg]—age relation with birth radii](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.3464R/abstract)
 
 <div class="image-center">
-<img src="/images/paper/nissen2.jpg" style="max-width: 500px;">
+<img src="/images/paper/nissen2.jpg" style="max-width: 350px; float: left"/>
 </div>
 
 <!-- **Abstract:**   -->
@@ -69,7 +70,7 @@ Chemical abundances of Milky Way disk stars are empirical tracers of its enrichm
 
 <!-- ![Figure 6](/images/paper/buck_contour3panel_v2.png) -->
 <div class="image-center">
-<img src="/images/paper/buck_contour3panel_v2.png" style="max-width: 500px;">
+<img src="/images/paper/buck_contour3panel_v2.png" style="max-width: 500px; float: left"/>
 </div>
 
 <!-- **Abstract:**   -->
@@ -82,6 +83,6 @@ To understand the formation and evolution of the Milky Way disk, we must connect
 <!-- ![Figure 7](/images/paper/PCAContributions3.png) -->
 
 <!-- **Abstract:**   -->
-<img src="/images/paper/PCAContributions3.png" style="max-width: 500px; float: left"/>
+<img src="/images/paper/PCAContributions3.png" style="max-width: 400px; float: left"/>
 A major goal in the field of galaxy formation is to understand the formation of the Milky Way's disk. The first step toward doing this is to empirically describe its present state. We use the new high-dimensional data set of 19 abundances from 27,135 red clump Apache Point Observatory Galactic Evolution Experiment stars to examine the distribution of clusters defined using abundances. We explore different dimension reduction techniques and implement a nonparametric agglomerate hierarchical clustering method. We see that groups defined using abundances are spatially separated, as a function of age. Furthermore, the abundance groups represent different distributions in the $[Fe/H]$–age plane. Ordering our clusters by age reveals patterns suggestive of the sequence of chemical enrichment in the disk over time. Our results indicate that a promising avenue to trace the details of the disk's assembly is via a full interpretation of the empirical connections we report.
 
