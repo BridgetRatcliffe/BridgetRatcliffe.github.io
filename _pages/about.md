@@ -12,4 +12,4 @@ Hi, I'm Bridget! I am a postdoctoral researcher at the Leibniz-Institut für Ast
 
 ## News 
 
-- ** Aug 2025:** My python package for estimating stellar birth radii in the Milky Way disk is now public! Check it out on GitHub here: [Rbirth](github.com/BridgetRatcliffe/Rbirth)
+- **Aug 2025:** My python package for estimating stellar birth radii in the Milky Way disk is now public! Check it out on GitHub here: [Rbirth](https://github.com/BridgetRatcliffe/Rbirth)
