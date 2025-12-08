@@ -12,4 +12,5 @@ Hi, I'm Bridget! I am a postdoctoral researcher at the Leibniz-Institut für Ast
 
 # News 
 
+- **Dec 2025:** My paper on the star formation history in the Milky Way disk was accepted in A&A! 
 - **Aug 2025:** My python package for estimating stellar birth radii in the Milky Way disk is now public! Check it out on GitHub here: [Rbirth](https://github.com/BridgetRatcliffe/Rbirth)
